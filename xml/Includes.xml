@@ -225,7 +225,7 @@
 				<posy>16</posy>
 				<width>160</width>
 				<height>44</height>
-				<texture>special://xbmc/media/vendor_logo.png</texture>
+				<texture>special://skin/background/logo.jpg</texture>
 				<include>VisibleFadeEffect</include>
 			</control>
 		</control>

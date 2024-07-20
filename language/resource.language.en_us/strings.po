@@ -244,7 +244,7 @@ msgstr "Configure display · Configure audio · Configure internet access · Con
 
 msgctxt "#31407"
 msgid "Manage your installed add-ons · Browse for and install add-ons from kodi.tv · Modify add-on settings"
-msgstr "Manage your installed add-ons · Browse for and install add-ons from kodi.tv · Modify add-on settings"
+msgstr "Manage your installed add-ons · Browse for and install add-ons from Magical K.tv · Modify add-on settings"
 
 msgctxt "#31408"
 msgid "Configure actions that can be used during playback · Configure how media content is played"
@@ -268,7 +268,7 @@ msgstr "Display system information · Hardware statistics · Check storage avail
 
 msgctxt "#31421"
 msgid "Select your Kodi user Profile[CR]to login and continue"
-msgstr "Select your Kodi user Profile[CR]to login and continue"
+msgstr "Select your Magical K user Profile[CR]to login and continue"
 
 msgctxt "#31548"
 msgid "Home menu"
@@ -413,7 +413,7 @@ msgstr "There are two things to know about navigating Estouchy"
 
 msgctxt "#31902"
 msgid "The Kodi logo functions as a 'HOME' button. Whenever you touch it, you will be taken back to the home screen."
-msgstr "The Kodi logo functions as a 'HOME' button. Whenever you touch it, you will be taken back to the home screen."
+msgstr "The Magical K logo functions as a 'HOME' button. Whenever you touch it, you will be taken back to the home screen."
 
 msgctxt "#31903"
 msgid "When you are playing audio or video, the item title will appear at the top of the screen. Touching it will take you to the fullscreen visualization or video window."
