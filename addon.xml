@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.estouchy" version="4.0.0" name="Estouchy" provider-name="Team Kodi">
+<addon id="skin.eMK" version="1.0.0" name="Magical K Touch" provider-name="Team K">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0"/>
 	</requires>
